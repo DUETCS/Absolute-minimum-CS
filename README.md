@@ -1,6 +1,7 @@
 # Absolute Minimum CS
 The absolute minimum every Computer Science undergrad should know (কম্পিউটার বিজ্ঞানের ছাত্র-ছাত্রীদের নূন্যতম যে জ্ঞান থাকা বাধ্যতামূলক)
 
+[please view Discussions before making any pull requests]
 
 ### Character Representations in Digital Systems
 - [ASCII - Wikipedia Article](https://en.wikipedia.org/wiki/ASCII)
